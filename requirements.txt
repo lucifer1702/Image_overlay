@@ -5,7 +5,9 @@ torch
 tensorboardX
 gdown
 datasets
-os 
+torchvision
 shutil 
 PIL
+cv2
+os 
 
