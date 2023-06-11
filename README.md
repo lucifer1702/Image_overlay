@@ -16,7 +16,7 @@ Future updates:
 2. Possibly training the model using deep fashion dataset
 3. using editGAN for more features
 4. deploying the model
-5. *** making an API service for this ***()
+5. *** making an API service for this ***(will require a lot of work but will try )
 
 To run the project :
 
