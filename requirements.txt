@@ -1,3 +1,11 @@
 numpy
 pandas
 matplotlib
+torch
+tensorboardX
+gdown
+datasets
+os 
+shutil 
+PIL
+
