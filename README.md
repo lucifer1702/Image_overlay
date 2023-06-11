@@ -16,4 +16,15 @@ Future updates:
 2. Possibly training the model using deep fashion dataset
 3. using editGAN for more features
 4. deploying the model
-5. *** making an API service for this ***
+5. *** making an API service for this ***()
+
+To run the project :
+
+1. git clone the repo
+2. prepare your dataset
+3. cd into the repo
+4. run   python3 models/image_Segmentation.py
+5. then get the segmented images in a folder
+6. run the similarity.py file
+7. once generated
+8. run gan.py file //this file  needs debugging a bit
